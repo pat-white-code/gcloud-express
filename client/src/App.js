@@ -14,6 +14,7 @@ function App() {
         <button onClick={handleTest}>
           test server
         </button>
+        <h2>Updated!</h2>
         <a>
           Learn React
         </a>
